@@ -21,7 +21,7 @@
         </p>
       </blockquote>
        <ul>
-        <li>👩‍💻 &nbsp; 2 years of backend developer & android development </li>
+        <li>👩‍💻 &nbsp; 2 years of backend development & android development </li>
         <li>🤔 &nbsp; Interested in memory manipulation </li>
        </ul>
        <br>
