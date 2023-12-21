@@ -56,7 +56,6 @@
         <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
         <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/>
         <img src="https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust"/>
-        <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3"/>
         <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown"/>
       </li>
       <li>
