@@ -21,7 +21,7 @@
         </p>
       </blockquote>
        <ul>
-        <li>👩‍💻 &nbsp; 6 years of fullstack development & android development experience </li>
+        <li>👩‍💻 &nbsp; 8 years of fullstack development & android development experience </li>
         <li>🤔 &nbsp; Interested in memory manipulation </li>
        </ul>
        <br>
